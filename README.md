@@ -1,2 +1,2 @@
-# Exel_Stat_Graphs
+# Excel_Stat_Graphs
 Probability and Statistical Plots made with Microsoft Excel
